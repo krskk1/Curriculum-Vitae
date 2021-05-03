@@ -12,6 +12,9 @@
 |Mail|kk@kj8.fun|
 |Twitter|[@krskk1](https://twitter.com/krskk1)|
 
+## 転職活動
+積極的にいろんな企業さまのお話を聞きたい（2021/05/03更新）
+
 ## スキル
 ### 言語
 |言語|レベルなど|
