@@ -9,7 +9,7 @@
 |Birth(Age)|1976/10/01(43)|
 |Location|神奈川県 横浜市|
 |Education|北九州大学|
-|Mail|kk@kj8.fun|
+|Mail|kuroda.kj8@gmail.com|
 |Twitter|[@krskk1](https://twitter.com/krskk1)|
 
 ## 転職活動
