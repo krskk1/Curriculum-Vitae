@@ -6,7 +6,7 @@
 ## 基本情報
 |key|value|
 |----|----|
-|Birth(Age)|1976/10/01(46)|
+|Birth(Age)|1976/10/01(47)|
 |Location|神奈川県 横浜市|
 |Education|北九州大学|
 |Mail|kuroda.kj8@gmail.com|
@@ -15,7 +15,7 @@
 ## 転職活動
 積極的にいろんな企業さまのお話を聞きたいが、正社員よりフリーランスを優先しています。  
 （正社員をまったく希望していないわけではないです）  
-（2023/08/10更新）
+（2024/06/21更新）
 
 ## スキル
 ### 言語
@@ -47,12 +47,22 @@
 ### 2023/08 〜 現在（業務委託）
 #### ファッション通販アプリ
 - 既存 Android アプリの新機能・不具合対応を担当
+- 主な使用ライブラリ等
+  - Retrofit, OkHtto, Coil, Moshi, Dagger Hilt, Karte, Jetpack Compose, Material3, Croutine, DataStore, OpenCSV, Timber, ZXing, koin, room, Lottie, Groupie
+
+### 2023/09 〜 2024/05（業務委託）
+#### オンライン診療アプリ
+- 既存 Android アプリの新機能・不具合対応を担当
+- 主な使用ライブラリ等
+  - Retrofit, OkHtto, Coil, Moshi, Dagger Hilt, Jetpack Compose, Material3, DataStore, Groupie, Croutine, ThreeTen, Adjust, InAppReview, Azure Communication
 
 ### 2023/04 〜 2023/07（業務委託）
 #### ジム予約アプリ
 - FlutterアプリをKotlinネイティブアプリへ新規リプレース
 - アーキテクチャは MVVM + Repositoryパターン
 - UIはすべて jetpack compose
+- 主な使用ライブラリ等
+  - Retrofit, OkHtto, Coil, Moshi, Dagger Hilt, Karte, Jetpack Compose, Material3, navigation-compose, firebase, Croutine
 
 ### 2022/06 〜 2022/07（業務委託）
 #### 美容院予約アプリ
@@ -62,6 +72,8 @@
 #### 美容医療口コミ・予約アプリ開発
 - 既存 Android アプリの新機能・不具合対応を担当
 - アーキテクチャは MVVM + Repositoryパターン
+- 主な使用ライブラリ等
+  - Retrofit, OkHtto, Glide, Braze, Material3, navigation, firebase, Groupie, Adjust, Croutine
 
 ### 2021/06 〜 2021/09（正社員）
 #### 美容院サブスクアプリの開発
@@ -74,6 +86,8 @@
 - 最初の3ヶ月は業務委託として就業。その後正社員となる
 - アーキテクチャは MVVM + Repositoryパターン
 - Android Architecture Components がほぼ導入されていなかったのをリファクタ
+- 主な使用ライブラリ等
+  - Retrofit, OkHtto, picaso, Karte, firebase, Groupie, Paging, Lottie, ExoPlayer, RxKotlin, Dagger Hilt, Croutine
 
 ### 2019/12 〜 2020/01（業務委託）
 #### 新規女性向けマンガアプリの開発
